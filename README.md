@@ -41,6 +41,8 @@
 
 ## 4. 클라이언트 설계 (Wails: Go Backend + Vue Frontend)
 
+![Image](https://github.com/user-attachments/assets/6ca3d6a2-5d8c-4633-9443-4941a9acc2f7)
+
 ### 4.1 구성
 - **Go (Wails 백엔드)**  
   - Wails 런타임을 통해 Vue 프론트엔드와 통신  
