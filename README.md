@@ -41,7 +41,7 @@
 
 ## 4. 클라이언트 설계 (Wails: Go Backend + Vue Frontend)
 
-![Image](https://github.com/user-attachments/assets/6ca3d6a2-5d8c-4633-9443-4941a9acc2f7)
+![Image](https://github.com/user-attachments/assets/8c54f5c5-4257-41d9-bb35-4cef93305c9e)
 
 ### 4.1 구성
 - **Go (Wails 백엔드)**  
