@@ -15,7 +15,7 @@
     "link": "https://github.com/hacer-dev/KgongU/releases",
     "priority": 3,
     "active": true,
-    "duration": 20
+    "duration": 10
   },
   {
     "id": "ad_003",
@@ -24,6 +24,6 @@
     "link": "https://github.com/hacer-dev/KgongU/releases",
     "priority": 3,
     "active": true,
-    "duration": 20
+    "duration": 7
   }
 ]
