@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ad_001",
+    "type": "text",
+    "content": "새로운 기능! K-공유 0.0.2 출시!",
+    "link": "https://github.com/hacer-dev/KgongU/releases/tag/v0.0.2",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "ad_002",
+    "type": "text",
+    "content": "K-공유 프리미엄 기능 체험!",
+    "link": "https://github.com/hacer-dev/KgongU/releases",
+    "priority": 2,
+    "active": true
+  },
+  {
+    "id": "ad_003",
+    "type": "text",
+    "content": "사내 문서 공유, 이제 K-공유로!",
+    "link": "https://github.com/hacer-dev/KgongU/releases",
+    "priority": 3,
+    "active": true
+  }
+]
