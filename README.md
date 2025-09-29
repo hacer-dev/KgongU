@@ -17,7 +17,7 @@
 
 ## 3. 서버 설계 (Wails: Go Backend + Vue Frontend)
 
-![Image](https://github.com/user-attachments/assets/65c3bc53-76d8-470e-898a-643e94db74a9)
+![Image](https://github.com/user-attachments/assets/18687797-2fac-4282-9752-c4f57083987f)
 
 ### 3.1 기능
 - **GUI (Vue)**:  
