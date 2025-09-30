@@ -2,16 +2,16 @@
   {
     "id": "ad_001",
     "type": "text",
-    "content": "공유 드라이브는 K-공유, 0.0.2 출시!",
-    "link": "https://github.com/hacer-dev/KgongU/releases/tag/v0.0.2",
+    "content": "공유 드라이브는 K-공유, 0.0.3 출시!",
+    "link": "https://github.com/hacer-dev/KgongU/releases/tag/v0.0.3",
     "priority": 3,
     "active": true,
-    "duration": 5
+    "duration": 10
   },
   {
     "id": "ad_002",
     "type": "text",
-    "content": "K-공유 프리미엄 기능 체험!",
+    "content": "쉬운 폴더 공유, K-공유",
     "link": "https://github.com/hacer-dev/KgongU/releases",
     "priority": 3,
     "active": true,
@@ -24,6 +24,6 @@
     "link": "https://github.com/hacer-dev/KgongU/releases",
     "priority": 3,
     "active": true,
-    "duration": 7
+    "duration": 10
   }
 ]
